@@ -53,8 +53,7 @@ The primary aim of this project is to clean, model, and analyze e-commerce opera
 
 ## 🚀 How to View This Project
 - Review SQL cleaning and analysis scripts in the sql/ folder.
-- Open the Power BI .png from the powerbi/ folder.
-- Preview dashboard powerbi/ecommerce-dashboard.png.
+
 
 ## Recommendations & Limitations
 
