@@ -34,6 +34,7 @@ The primary aim of this project is to clean, model, and analyze e-commerce opera
 ├── sql/
 │   └── ecommerce_analysis.sql
 └── README.md
+```
 
 ## 🔍 Key Insights
 1. Identified leading product categories.
